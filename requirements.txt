@@ -1,0 +1,4 @@
+nltk
+sumy
+yake
+pdfminer.six
